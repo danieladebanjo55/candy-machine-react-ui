@@ -169,7 +169,7 @@ const Home = (props: HomeProps) => {
           style={{
             padding: 24,
             backgroundColor: "#151A1F",
-            borderRadius: 6,
+            borderRadius: 40,
           }}
         >
           {!wallet.connected ? (
